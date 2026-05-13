@@ -1,4 +1,4 @@
-# 
+# elite Scanner for MEV sniper bot | contract-verification & multi-wallet-support is the best MEV sniper bot, featuring contract-verification and multi-wallet-support. Fast, smart,
 
 
 
